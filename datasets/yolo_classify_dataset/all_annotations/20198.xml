@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20198.jpg</filename>
+	<path>/my-project-name/20198.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3468</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1855</xmin>
+			<ymin>1335</ymin>
+			<xmax>2303</xmax>
+			<ymax>2446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2312</xmin>
+			<ymin>1353</ymin>
+			<xmax>2751</xmax>
+			<ymax>2424</ymax>
+		</bndbox>
+	</object>
+</annotation>

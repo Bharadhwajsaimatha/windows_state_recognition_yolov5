@@ -1,0 +1,14 @@
+#Omitting the datasets for now.
+#Available in my kaggle space.
+datasets/
+src/sai_test_codes
+
+#Ignoring any ipynb checkpoints
+*.ipynb_checkpoints
+
+#yolov5 github related ignores
+yolov5-master/.github
+yolov5-master/*.git
+
+#ignore runs
+yolov5-master/runs

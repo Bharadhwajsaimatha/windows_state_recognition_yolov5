@@ -1,0 +1,25 @@
+<annotation>
+	<folder>windows-annotation-3</folder>
+	<filename>100472.jpg</filename>
+	<path>/windows-annotation-3/100472.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tilted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>173</ymin>
+			<xmax>980</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>windows-annotation2</folder>
+	<filename>100248.jpg</filename>
+	<path>/windows-annotation2/100248.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>230</ymin>
+			<xmax>616</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>closed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>985</xmin>
+			<ymin>225</ymin>
+			<xmax>1393</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

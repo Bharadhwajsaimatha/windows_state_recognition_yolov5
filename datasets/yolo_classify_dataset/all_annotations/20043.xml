@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20043.jpg</filename>
+	<path>/my-project-name/20043.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3468</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi_open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>506</ymin>
+			<xmax>1676</xmax>
+			<ymax>2603</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fully_open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2760</xmin>
+			<ymin>417</ymin>
+			<xmax>4624</xmax>
+			<ymax>2639</ymax>
+		</bndbox>
+	</object>
+</annotation>

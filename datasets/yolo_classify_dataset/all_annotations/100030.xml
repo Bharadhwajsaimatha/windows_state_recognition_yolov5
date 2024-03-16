@@ -1,0 +1,37 @@
+<annotation>
+	<folder>windows-annotation</folder>
+	<filename>100030.jpg</filename>
+	<path>/windows-annotation/100030.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>fully_open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>244</ymin>
+			<xmax>1003</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fully_open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1022</xmin>
+			<ymin>81</ymin>
+			<xmax>1428</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

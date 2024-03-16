@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20056.jpg</filename>
+	<path>/my-project-name/20056.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3468</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tilted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>1075</ymin>
+			<xmax>1649</xmax>
+			<ymax>2644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tilted</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2697</xmin>
+			<ymin>1017</ymin>
+			<xmax>4315</xmax>
+			<ymax>2966</ymax>
+		</bndbox>
+	</object>
+</annotation>
