@@ -1,6 +1,6 @@
 # Windows State Recognition with YOLOv5
 
-[demo](assets/demo.gif)
+![demo](assets/demo.gif)
 
 ## Introduction
 
